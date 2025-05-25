@@ -2,7 +2,7 @@
 const nextConfig = {
   distDir: '.next',
   eslint: {
-  distDir: '.next',
+    // Remove the distDir key from here
   },
   // Image optimization is enabled by default on Vercel
 };
